@@ -1,0 +1,3 @@
+:HL["/accounting-saas-review-pages/_next/static/chunks/0y1sa1wcoq8ih.css","style"]
+:HL["/accounting-saas-review-pages/_next/static/media/88a013264a4e85f3-s.p.3d1hgzl_2jziv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"agents/actions","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"-2Df4jaSllyuVLyJHKUzU"}
