@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[41467,["/accounting-saas-review-pages/_next/static/chunks/05-c3ty_6dwfk.js","/accounting-saas-review-pages/_next/static/chunks/14mrh2-p_w84d.js","/accounting-saas-review-pages/_next/static/chunks/3rq1jrh18gaok.js"],"default"]
+2:I[41467,["/accounting-saas-review-pages/_next/static/chunks/05-c3ty_6dwfk.js","/accounting-saas-review-pages/_next/static/chunks/14mrh2-p_w84d.js","/accounting-saas-review-pages/_next/static/chunks/22smjftjq38fp.js"],"default"]
 3:I[97367,["/accounting-saas-review-pages/_next/static/chunks/05-c3ty_6dwfk.js","/accounting-saas-review-pages/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"initialPath":"/settings/categories/cat-bank-cash/edit","seedProfile":"demo"}],[["$","script","script-0",{"src":"/accounting-saas-review-pages/_next/static/chunks/3rq1jrh18gaok.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"P9buHr0zZ2Un8drMYe1WK"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"initialPath":"/settings/categories/cat-bank-cash/edit","seedProfile":"demo"}],[["$","script","script-0",{"src":"/accounting-saas-review-pages/_next/static/chunks/22smjftjq38fp.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CDPHeUz3gD3Bui4GmWRbb"}
 5:null
