@@ -1,0 +1,6 @@
+{
+  "authProvider": "supabase",
+  "dataProvider": "supabase-normalized",
+  "supabaseUrlConfigured": true,
+  "supabaseProjectRef": "hqnejbdfagyaxfoszekm"
+}
